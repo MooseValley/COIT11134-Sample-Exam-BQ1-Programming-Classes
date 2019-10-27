@@ -1,6 +1,6 @@
 # COIT11134 - Sample Exam - BQ1 - Programming, Classes
 
-## Question 1	5 MARKS
+## Question 1	(5 MARKS)
 
 The following codes define Person class in a file named Person.java.
 
